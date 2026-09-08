@@ -1,0 +1,168 @@
+{
+  "links": [
+    {
+      "emoji": "🏠",
+      "name": "Official Home & Manual",
+      "url": "https://hermes-agent.nousresearch.com/docs/",
+      "desc": "What Hermes is, how to get it, and the instruction manual."
+    },
+    {
+      "emoji": "📦",
+      "name": "The Repo (GitHub)",
+      "url": "https://github.com/nousresearch/hermes-agent",
+      "desc": "Source of truth. Free updates land here."
+    },
+    {
+      "emoji": "📖",
+      "name": "Real-Life Stories",
+      "url": "https://hermes-agent.nousresearch.com/docs/user-stories",
+      "desc": "How people actually use Hermes day to day."
+    },
+    {
+      "emoji": "💡",
+      "name": "Tips & Tricks",
+      "url": "https://hermes-agent.nousresearch.com/docs/guides/tips",
+      "desc": "Practical advice — no deep background needed."
+    },
+    {
+      "emoji": "🧰",
+      "name": "Big Idea List",
+      "url": "https://skillsllm.com/skill/awesome-hermes-usecases",
+      "desc": "Community list of clever ways people use Hermes."
+    },
+    {
+      "emoji": "💬",
+      "name": "The Fan Club (X)",
+      "url": "https://x.com/i/communities/2036289138844942498",
+      "desc": "Setups, questions, and help from other users."
+    },
+    {
+      "emoji": "🛠️",
+      "name": "Plain-English Overview",
+      "url": "https://www.kimi.com/resources/hermes-agent",
+      "desc": "Short guide: what it is and how to start."
+    },
+    {
+      "emoji": "🧑‍🔬",
+      "name": "Meet the Makers",
+      "url": "https://nousresearch.com/",
+      "desc": "Nous Research — the team that builds Hermes."
+    }
+  ],
+  "path": [
+    { "id": "docs", "label": "Read the official docs", "url": "https://hermes-agent.nousresearch.com/docs/" },
+    { "id": "install", "label": "Clone / install the repo", "url": "https://github.com/nousresearch/hermes-agent" },
+    { "id": "stories", "label": "Skim 2 user stories", "url": "https://hermes-agent.nousresearch.com/docs/user-stories" },
+    { "id": "tips", "label": "Apply one tip from the guide", "url": "https://hermes-agent.nousresearch.com/docs/guides/tips" }
+  ],
+  "items": [
+    {
+      "id": "gh-repo:NousResearch/hermes-agent",
+      "sourceGroup": "gh",
+      "type": "repo",
+      "title": "NousResearch/hermes-agent — the agent that grows with you",
+      "url": "https://github.com/nousresearch/hermes-agent",
+      "author": "Nous Research",
+      "createdAt": "2026-09-05T00:00:00.000Z",
+      "summary": "The self-improving AI agent from Nous Research. Built-in learning loop: it creates skills from experience and improves them during use.",
+      "tags": ["official", "agent"],
+      "meta": { "value": 95 }
+    },
+    {
+      "id": "cur:1",
+      "sourceGroup": "cur",
+      "type": "article",
+      "title": "User Stories & Use Cases — Hermes Agent",
+      "url": "https://hermes-agent.nousresearch.com/docs/user-stories",
+      "author": "Nous Research",
+      "createdAt": "2026-09-06T00:00:00.000Z",
+      "summary": "Real stories from the community — what people are actually building, collected from X, GitHub, Reddit, HN, YouTube, blogs and podcasts.",
+      "tags": ["official", "use-cases"],
+      "meta": { "value": 92 }
+    },
+    {
+      "id": "cur:2",
+      "sourceGroup": "cur",
+      "type": "guide",
+      "title": "Tips & Best Practices — Hermes Agent",
+      "url": "https://hermes-agent.nousresearch.com/docs/guides/tips",
+      "author": "Nous Research",
+      "createdAt": "2026-09-07T00:00:00.000Z",
+      "summary": "Prompt tips, CLI shortcuts, context files, memory, cost, and security — the fastest way to shorten the learning curve.",
+      "tags": ["official", "tips"],
+      "meta": { "value": 88 }
+    },
+    {
+      "id": "cur:3",
+      "sourceGroup": "cur",
+      "type": "article",
+      "title": "awesome-hermes-usecases — curated real-world use cases",
+      "url": "https://skillsllm.com/skill/awesome-hermes-usecases",
+      "author": "Community",
+      "createdAt": "2026-09-06T12:00:00.000Z",
+      "summary": "Curated real-world use cases for Hermes Agent, backed by primary sources.",
+      "tags": ["awesome-list", "use-cases"],
+      "meta": { "value": 84 }
+    },
+    {
+      "id": "cur:4",
+      "sourceGroup": "cur",
+      "type": "guide",
+      "title": "Hermes Agent Guide: What It Is and How to Use It",
+      "url": "https://www.kimi.com/resources/hermes-agent",
+      "author": "Kimi Resources",
+      "createdAt": "2026-09-06T08:00:00.000Z",
+      "summary": "Search, summarise, extract insights — less tab-switching. A short on-ramp.",
+      "tags": ["guide", "intro"],
+      "meta": { "value": 78 }
+    },
+    {
+      "id": "cur:5",
+      "sourceGroup": "cur",
+      "type": "article",
+      "title": "Hermes Agent: The Hype, The Reality, and Who Should Actually Use It",
+      "url": "https://www.towardsdeeplearning.com/hermes-agent-the-hype-the-reality-and-who-should-actually-use-it-acc20bc94d32",
+      "author": "Towards Deep Learning",
+      "createdAt": "2026-09-05T10:00:00.000Z",
+      "summary": "Open-source agent, persistent memory, Telegram/Discord, cheap VPS — who it is actually for.",
+      "tags": ["review", "opinion"],
+      "meta": { "value": 74 }
+    },
+    {
+      "id": "cur:6",
+      "sourceGroup": "cur",
+      "type": "post",
+      "title": "Hermes Agent Community on X",
+      "url": "https://x.com/i/communities/2036289138844942498",
+      "author": "X Community",
+      "createdAt": "2026-09-04T00:00:00.000Z",
+      "summary": "Members share personal setups: sleep, meals, meds, workouts, recovery, daily patterns.",
+      "tags": ["community", "x"],
+      "meta": { "value": 70 }
+    },
+    {
+      "id": "cur:7",
+      "sourceGroup": "cur",
+      "type": "post",
+      "title": "LLMs and Hermes Agent — Level1Techs thread",
+      "url": "https://forum.level1techs.com/t/llms-and-hermes-agent/250694",
+      "author": "Level1Techs",
+      "createdAt": "2026-09-03T00:00:00.000Z",
+      "summary": "Experiences with Hermes and local or hosted LLMs of choice.",
+      "tags": ["self-host", "llm"],
+      "meta": { "value": 64 }
+    },
+    {
+      "id": "cur:8",
+      "sourceGroup": "cur",
+      "type": "post",
+      "title": "Hermes Agent on Cloudron — self-hosting discussion",
+      "url": "https://forum.cloudron.io/topic/15128/hermes-agent",
+      "author": "Cloudron Forum",
+      "createdAt": "2026-09-02T00:00:00.000Z",
+      "summary": "An autonomous agent on your server that remembers what it learns. Use any model you want.",
+      "tags": ["self-host", "server"],
+      "meta": { "value": 60 }
+    }
+  ]
+}
