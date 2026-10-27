@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+:root {
+  --bg-primary: #090d16;
+  --bg-card: #111827;
+  --bg-elevated: #1e293b;
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+  --bias-left: #3b82f6;
+  --bias-lean-left: #60a5fa;
+  --bias-center: #cbd5e1;
+  --bias-lean-right: #f87171;
+  --bias-right: #ef4444;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #090d16;
+  color: #f8fafc;
+  /* Dyslexia-friendly, high-legibility geometric humanist stack with generous spacing */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.55;
+  letter-spacing: 0.012em;
+  word-spacing: 0.04em;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Hide scrollbars in horizontal pill strips while keeping scroll functional */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ground News — Personal Objective Reader",
+  "short_name": "GroundNews",
+  "description": "See every side of every story. Live RSS clustering, Left/Center/Right bias spectrum bars, blindspot alerts, and spin-free synthesis.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090D16",
+  "theme_color": "#090D16",
+  "orientation": "portrait"
+}
